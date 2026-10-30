@@ -33,7 +33,7 @@ An inclusive mobile booking companion app designed for **Stonewake Keep**, a his
 * Focuses on structural layouts, element labeling, and HCI annotations grounded in theory (Nielsen's Heuristics, Norman's Design Principles, WCAG 2.1)[cite: 135, 138, 142].
 
 #### Preview: Home Screen Sketch (Discover)
-![Home Screen Sketch](./homescreen-sketch.jpg)
+![Home Screen Sketch](./home_screen-sketch.jpg)
 
 ---
 
